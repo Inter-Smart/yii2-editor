@@ -18,8 +18,8 @@
   ],
   "require": {
     
-    "bower-asset/bootstrap-wysiwyg-editor": "^1.1.4",
-    "bower-asset/font-awesome": "*"
+    "bower-asset/bootstrap-wysiwyg-editor": "dev-master",
+    "bower-asset/font-awesome": "dev-master"
   },
   "minimum-stability": "dev",
   "autoload": {
